@@ -24,9 +24,10 @@ https://github.com/user-attachments/assets/1918a28a-7cdc-4451-9e56-4d50d5921ca8
 
 Portrait and Landscape layouts supported  
 📲 Emulator: Pixel 5 - API 33
-<img src="https://github.com/user-attachments/assets/0f9dbf59-a4e7-4b45-929b-f3fe80010544" width="200"/>
 
 <img src="https://github.com/user-attachments/assets/3ab71ef8-960e-4b7c-a630-893a4e43bbed" width="200"/>
+
+<img src="https://github.com/user-attachments/assets/0f9dbf59-a4e7-4b45-929b-f3fe80010544" width="200"/>
 
 ## 📁 Project Structure
 
